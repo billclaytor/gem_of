@@ -1,4 +1,4 @@
-billclaytor/gem_of:
+bclaytor/gem_of:
   PreBuild:
     # Check to see if rvm is already installed
     - if [ -a ~/.rvm/scripts/rvm ]; then
